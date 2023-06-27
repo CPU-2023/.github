@@ -47,7 +47,4 @@
   - [박화경](https://github.com/fire-irror)
   - [임효진](https://github.com/dinmoy)
   
-- **제주도의 푸른 밤**
-  - [김서연](https://github.com/seoyeon0203)
-  - [고은](https://github.com/Silversi06)
-  - [김민서](https://github.com/mminseoo)
+
